@@ -12,7 +12,7 @@ Pick colors from images
 
 Lightweight, no background services
 
-Privacy: Local generation; no uploads of your images or colors. Optional crash/usage analytics to improve stability. See the full [Privacy Policy](https://magiccreatorapp.github.io/Apps/PureWallpaper)
+Privacy: Local generation; no uploads of your images or colors. Optional crash/usage analytics to improve stability. See the full [Privacy Policy].(https://magiccreatorapp.github.io/Apps/PureWallpaper)
 
 Monetization: Free core features. Optional ads / Pro unlocks (more textures & gradients, batch export, etc.).
 
